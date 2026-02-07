@@ -10,6 +10,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "lingo.dev": "^0.131.1",
     "react": "^19.2.0",
     "react-dom": "^19.2.0"
   },
